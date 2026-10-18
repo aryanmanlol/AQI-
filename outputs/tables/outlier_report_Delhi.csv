@@ -1,0 +1,8 @@
+variable,lower_bound,upper_bound,n_capped_low,n_capped_high
+pm2_5,-87.03,219.13,0,2
+pm10,-191.08,437.9,0,31
+carbon_monoxide,-1578.42,3379.92,0,17
+nitrogen_dioxide,-54.9,133.89,0,4
+sulphur_dioxide,-48.29,115.63,0,22
+us_aqi,-37.92,345.33,0,25
+precipitation,-3.0,4.0,0,180

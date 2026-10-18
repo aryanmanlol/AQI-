@@ -1,0 +1,25 @@
+variable,horizon,model,MAE
+pm2_5,1,Naive,8.292
+pm2_5,1,SeasonalNaive,9.675
+pm2_5,1,HW_ETS,4.171
+pm2_5,1,"SARIMA(2, 1, 2)(0, 1, 1, 7)",1.919
+pm2_5,3,Naive,11.168
+pm2_5,3,SeasonalNaive,6.808
+pm2_5,3,HW_ETS,6.495
+pm2_5,3,"SARIMA(2, 1, 2)(0, 1, 1, 7)",4.348
+pm2_5,7,Naive,19.519
+pm2_5,7,SeasonalNaive,4.608
+pm2_5,7,HW_ETS,16.605
+pm2_5,7,"SARIMA(2, 1, 2)(0, 1, 1, 7)",10.325
+pm10,1,Naive,13.117
+pm10,1,SeasonalNaive,8.675
+pm10,1,HW_ETS,4.761
+pm10,1,"SARIMA(2, 1, 2)(1, 1, 1, 7)",4.858
+pm10,3,Naive,20.215
+pm10,3,SeasonalNaive,5.117
+pm10,3,HW_ETS,10.676
+pm10,3,"SARIMA(2, 1, 2)(1, 1, 1, 7)",6.178
+pm10,7,Naive,33.604
+pm10,7,SeasonalNaive,12.414
+pm10,7,HW_ETS,27.104
+pm10,7,"SARIMA(2, 1, 2)(1, 1, 1, 7)",12.324

@@ -1,0 +1,8 @@
+null_hypo,trace_stat,trace_crit_5pct,trace_reject,eigen_stat,eigen_crit_5pct,eigen_reject
+r <= 0,660.013,125.618,True,209.39,46.23,True
+r <= 1,450.623,95.754,True,159.394,40.076,True
+r <= 2,291.229,69.819,True,128.675,33.878,True
+r <= 3,162.554,47.854,True,86.368,27.586,True
+r <= 4,76.185,29.796,True,46.706,21.131,True
+r <= 5,29.48,15.494,True,24.924,14.264,True
+r <= 6,4.556,3.842,True,4.556,3.842,True

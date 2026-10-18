@@ -1,0 +1,5 @@
+Regime,N_Obs,Mean,Median,Std_Dev,IQR,Max
+Winter,361,99.45,96.85,40.15,55.6,219.13
+Monsoon,399,51.12,47.01,20.35,23.67,128.17
+Diwali_Window,21,95.7,80.15,42.22,61.71,200.22
+Transition_Season,360,62.19,58.12,24.7,30.44,197.89

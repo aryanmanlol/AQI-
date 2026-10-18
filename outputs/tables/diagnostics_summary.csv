@@ -1,0 +1,4 @@
+model,target,n_obs,mean_resid,std_resid,ljung_box_p10,ljung_box_p20,no_autocorr_pass,jarque_bera_pvalue,normality_pass,arch_lm_pvalue,homoskedastic_pass,overall_pass
+VAR,PM2.5,789,0.0,0.3123,0.0,0.0,False,0.0,False,0.0,False,False
+SARIMAX,PM2.5,790,0.851,46.9525,0.0,0.0,False,0.0,False,0.6064,True,False
+Naive,PM2.5,1128,-0.0219,21.2216,0.0,0.0,False,0.0,False,0.0,False,False
